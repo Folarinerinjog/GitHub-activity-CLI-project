@@ -1,0 +1,13 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "description": "GitHub User Activity CLI",
+  "main": "github-activity.js",
+  "bin": {
+    "github-activity": "./github-activity.js"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
